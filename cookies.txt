@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+brisita.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.ebay.com	TRUE	/	FALSE	1999999999	ebay	%5Esbf%3D%23%5E
+brisita.com	TRUE	/	FALSE	1999999999	localization	US
+brisita.com	TRUE	/	FALSE	1999999999	_y	3de235c5-cff3-4e49-9e85-6312170f5961
+brisita.com	TRUE	/	FALSE	1999999999	_s	5336bca8-e968-4607-9a04-b398091e2b5e
+brisita.com	TRUE	/	FALSE	1999999999	_shopify_y	3de235c5-cff3-4e49-9e85-6312170f5961
+brisita.com	TRUE	/	FALSE	1999999999	_shopify_s	5336bca8-e968-4607-9a04-b398091e2b5e
+brisita.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

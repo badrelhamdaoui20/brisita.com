@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://brisita.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://brisita.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://brisita.com/collections/baby.atom"/>
+  <title>Brisita</title>
+  <updated>2022-01-27T21:35:45+01:00</updated>
+  <author>
+    <name>Brisita</name>
+  </author>
+  <entry>
+    <id>https://brisita.com/products/6664506474547</id>
+    <published>2022-01-27T21:35:45+01:00</published>
+    <updated>2022-01-27T21:35:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://brisita.com/products/best-breastfeeding-pillow-adjustable-boppy-nursing-pillows"/>
+    <title>Multifunction Breastfeeding Pillow Adjustable Nursing Pillow Infant Feeding Support</title>
+    <s:type>Nursing Pillows</s:type>
+    <s:vendor>Brisita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/products/mainpic_daac8795-bace-4bc9-963b-246c2d73b1e1.png?v=1647870208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brisita<br>
+        <strong>Type: </strong>Nursing Pillows<br>
+        <strong>Price: </strong>
+            57.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Breastfeeding your baby is a wonderful</strong> way to create a loving bond, but the strain caused by cradling your baby in the perfect position can be a drag. Having a nursing pillow on hand can give you the necessary arm and body support during breastfeeding sessions.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Brisita</strong> gives you the best nursing pillows to accommodate an array of breastfeeding positions.<br data-mce-fragment="1"><br data-mce-fragment="1"><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/He45ced771869437db69201a3b21ea816C_480x480.jpg?v=1643314310" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/He45ced771869437db69201a3b21ea816C_480x480.jpg?v=1643314310"><br data-mce-fragment="1"></p>
+<p><br data-mce-fragment="1"><strong>High Quality Material</strong>: The pillow is made of cotton, featuring PP cotton padding. Pad plus cotton, soft and comfortable. Preferred original good cotton, soft skin-friendly, suitable for baby growth and development, so that the baby is more comfortable<br data-mce-fragment="1">Three adjustable heights allow you to choose the right height and get the best comfort, easy for a mom to make it the best fit for babies in different age groups. The nursing pillow can provide soft and comfortable support for your baby while breastfeeding, reduce mom's neck and back pain.<br data-mce-fragment="1">Elevate your little one to breast height for improved latching; Supports upright nursing positions for little ones with acid reflux or GERD; Supports a variety of nursing positions including cross-cradle or football positions<br data-mce-fragment="1">Easy to Store Clean, and Easy to Carry: Ribbon included for easy storage. Foldable in any way, with ribbon fastening and convenient to carry out for travel. Machine wash in gentle mode can be dried<br data-mce-fragment="1">13.8 x 11.2 x 9 inches</p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/Hdf4181529e0547fabce1338b6595d257M_480x480.jpg?v=1643314371" alt=""><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/H002c058049a349d780c51f705098dbc63_480x480.jpg?v=1643314398" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/Hf2988e623112449a91b1d3c032db0cc28_480x480.jpg?v=1643314419" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/Hc038bb4c08ce4d88bebe1366b104d642M_480x480.jpg?v=1643314433" alt=""><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/H36fbd0c3589a4f638bd4fd026d101f044_480x480.jpg?v=1643314446" alt=""><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/Hf5ba6401c5af4617bd47b2630c22a11ct_480x480.jpg?v=1643314468" alt=""><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/Hd54a753b2fe946c0bc4fce69e1a14fa3w_480x480.jpg?v=1643314495" alt=""><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/Hfa937509a6f748fb9abbcafce5c2353fv_480x480.jpg?v=1643314513" alt=""><img src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/4-main-nursing-pillows-baby-maternity-baby-breastfeeding-pillows-layered-adjustable-nursing-cushion-newborn-feeding-pillow-for-nursing_480x480.png?v=1643314539" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Kids &amp; Toys</s:tag>
+    <s:variant>
+      <id>https://brisita.com/products/6664506474547</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://brisita.com/products/6662110314547</id>
+    <published>2022-01-20T16:22:46+01:00</published>
+    <updated>2022-01-20T16:22:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://brisita.com/products/inflatable-baby-bathtub-best-collapsible-baby-bath-tub"/>
+    <title>Inflatable Baby Bathtub, Children&apos;S Thickened Household Bathtub, Baby Foldable And Storage Bathtub</title>
+    <s:type>Baby Bathtub</s:type>
+    <s:vendor>Brisita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/products/1621239151152.jpg?v=1647869887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brisita<br>
+        <strong>Type: </strong>Baby Bathtub<br>
+        <strong>Price: </strong>
+            69.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Safe Materials: The inflatable baby bathtub is made of Environmental protection PVC material</strong>, durable and non-toxic, soft and smooth, easy to clean.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/1-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689339" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/1-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689339"><img alt="" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/3-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689380" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/3-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689380"></p>
+<p><br><strong>Brisita Inflatable Baby Bathtub</strong>: <span data-mce-fragment="1">Air pump included</span>, Non-slip surface, The bottom of the inflated air column supports the infant around the legs, preventing him from slipping in the water and ensuring his safety and comfort. Easy to Drain: The tub has a simple drain plug in the bottom that makes draining the tub a breeze. Bath accessories such as baby shampoo, soap, towel, small toys, and other items can be stored in the side pocket. Ideal Dimensions: When the tub is deflated, it may easily be folded for transport and storage.<br></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/4-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689412" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/4-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689412"></p>
+<p><br></p>
+<ul>
+<li>★【High-quality Materials】The babies inflatable bathtub is made of high-quality PVC material, which is durable and beautiful in appearance. Can be used indoors or outdoors.</li>
+<li>★【Zipper Cover】Equipped with a zipper cover, you can close the zipper to form a closed space to contain heat and keep the water temperature you want, keeping you warm for a longer time.</li>
+<li>★【Comfortable Design】The backrest and headrest are added, and the bathtub has better support and cushioning. It can be used to additionally support the back and head to provide better comfort.</li>
+<li>★【Automatic Inflation】Automatic wireless inflation only takes a few minutes to inflate and can be folded and stored after deflation, saving a lot of bathroom space. It is a perfect substitute for traditional bathtubs.</li>
+<li>★【Multifunctional】The inflatable bathtub can be used as a medicinal bath, milk bath, flower bath, and a baby pool.</li>
+</ul>
+<p> </p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/2-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689457" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/2-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689457"><img alt="" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/5-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689477" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/5-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689477"></p>
+<h2><b></b></h2>
+<h2><b>Size Information</b></h2>
+<ul>
+<li>26*19.5*8CM</li>
+</ul>
+<h2>
+<br><b>Packing list</b>
+</h2>
+<ul>
+<li>Inflatable bathtub X1</li>
+<li>air pump X1</li>
+</ul>
+<p> </p>
+<p> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/0-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689636" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0549/7608/6067/files/0-main-baby-bath-tub-inflatable-bathtub-folding-baby-bath-bucket-newborn-baby-bathing-cradle-bed-baby-bathing-seat-tub-infants-supplies_480x480.png?v=1642689636"></p>
+<h2></h2>
+<h2>features</h2>
+<ol>
+<li>100% satisfaction guarantee: If you are not completely satisfied with your purchase, return the product to us with our no hassles, 14 days money-back guarantee</li>
+<li>Best customer support experience.</li>
+<li>Please provide us with your valuable feedback. It helps us in the betterment of our customer service experience.</li>
+<li>Fast shipping with tracking details and speedy delivery.</li>
+<li>Email Notifications regarding your order.</li>
+<li>Top-notch customer support.</li>
+</ol>
+<p><br></p>
+<p><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/1621239145287.jpg" style="max-width: 100%;" data-mce-style="max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/1621239145284.jpg" style="max-width: 100%;" data-mce-style="max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/1621239145283.jpg" style="max-width: 100%;" data-mce-style="max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/1621239145293.jpg" style="max-width: 100%;" data-mce-style="max-width: 100%;"><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/1621239145294.jpg" style="max-width: 100%;" data-mce-style="max-width: 100%;"><b><br></b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Kids &amp; Toys</s:tag>
+    <s:variant>
+      <id>https://brisita.com/products/6662110314547</id>
+      <title>Pink / 26*19.5*8CM / Environmental protection PVC</title>
+      <s:price currency="USD">69.32</s:price>
+      <s:sku>CJYS113282501AZ</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://brisita.com/products/6662110314547</id>
+      <title>Blue / 26*19.5*8CM / Environmental protection PVC</title>
+      <s:price currency="USD">69.32</s:price>
+      <s:sku>CJYS113282502BY</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+</feed>
